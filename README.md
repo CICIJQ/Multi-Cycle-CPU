@@ -1,2 +1,2 @@
 # Multi-Cycle-CPU
-Computer Organization and Architecture
+复旦计算机组成与体系结构课程pj（Computer Organization and Architecture）
